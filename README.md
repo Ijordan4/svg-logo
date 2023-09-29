@@ -21,17 +21,18 @@ Follow the on-screen prompts to customize your logo. Once you're satisfied with 
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Sources
 
 This project was built with the help of the following sources:
 
-Mozilla Developer Network
-YouTube
-Stack Overflow
-Inquirer npm package
-Jest npm package
+Sources
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+- [YouTube](https://www.youtube.com/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [Inquirer npm package](https://www.npmjs.com/package/inquirer/v/8.2.4)
+- [Jest npm package](https://www.npmjs.com/package/jest)
 
 ## Contribution
 
